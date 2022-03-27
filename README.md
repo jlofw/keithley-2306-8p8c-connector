@@ -2,9 +2,9 @@
 
 Adapter that converts Keithley 2306 ports to shielded 8P8C (RJ45).
 
-![Alt text](/images/front.PNG?raw=true "front")
+![front](/images/front.PNG?raw=true)
 
-![Alt text](/images/back.PNG?raw=true "back")
+![back](/images/back.PNG?raw=true)
 
 ## Connectors used:
 
