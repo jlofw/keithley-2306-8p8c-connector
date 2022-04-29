@@ -1,6 +1,6 @@
 # keithley-2306-8p8c-connector
 
-Adapter that converts Keithley 2306 ports to shielded 8P8C (RJ45).
+Adapter that converts Keithley 2306 ports to 8P8C (RJ45).
 
 ![front](/images/front.PNG?raw=true)
 
