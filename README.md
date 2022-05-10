@@ -1,4 +1,4 @@
-# keithley-2306-8p8c-connector
+# keithley-2306-8p8c-connector (work in progress)
 
 Adapter that converts Keithley 2306 ports to 8P8C (RJ45).
 
